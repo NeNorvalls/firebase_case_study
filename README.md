@@ -1,1 +1,0 @@
-# firebase_case_study
